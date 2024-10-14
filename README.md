@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shanemalka9
 - 👀 I’m interested in coding and problem solving
-- 🌱 I’m currently learning python and about to start learning java
+- 🌱 I’m Learned pyhton and java and learning Angular and springboot
 - 📫 How to reach me: shanemalka@outlook.com
 
 <!---
