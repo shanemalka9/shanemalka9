@@ -54,8 +54,4 @@
 ## 🌟 Contribution Graph
 [![Shan's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=shanemalka9&theme=ocean_dark&bg_color=20232a&hide_border=true&line=61dafb&point=fff&area=true&area_color=61dafb)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-## 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=shanemalka9&theme=radical&no-frame=true&no-bg=true&margin-w=4)
-
-
 ###
