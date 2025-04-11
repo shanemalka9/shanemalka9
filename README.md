@@ -13,24 +13,20 @@ I'm a full-stack developer specializing in backend development, studying at the 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring" height="40" />
-  <br /><br />
   
   <!-- Version Control & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="40" />
-  <br /><br />
   
   <!-- Tools & Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" />
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/supabase.svg" alt="Supabase" height="40" />
-  <br /><br />
   
   <!-- IDEs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" alt="IntelliJ" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="Android Studio" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" height="40" />
-  <br /><br />
   
   <!-- Hardware & OS -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="Arduino" height="40" />
@@ -48,6 +44,12 @@ I'm a full-stack developer specializing in backend development, studying at the 
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shanemalka9&theme=dracula" alt="GitHub Streak">
+</div>
+
+## 🌟 GitHub Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=shanemalka9&theme=ocean_dark&bg_color=20232a&hide_border=true&line=61dafb&point=fff&area=true&area_color=61dafb" alt="GitHub Contribution Graph">
 </div>
 
 ## 👀 Visitor Count
