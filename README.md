@@ -61,6 +61,9 @@ I'm a full-stack developer specializing in backend development, studying at the 
 ## 📫 Let's Connect
 
 <p align="center">
+  <a href="https://shanemalka9.github.io/Portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-121013?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
   <a href="https://www.linkedin.com/in/ambagahage-fernando-ba7b682a7" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
